@@ -2,11 +2,11 @@ class sum
 {
 	public static void main(String [] args)
 	{
-		int a,b,c;
+		int ab,c;
 		a=60;
 		b=30;
 		c=30;
-		c=a+b+c;
+		c=a+b+
 		System.out.println("the Sum of three values "+c);
 	}
 }
